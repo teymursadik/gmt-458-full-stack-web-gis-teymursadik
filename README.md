@@ -150,7 +150,7 @@ To satisfy the filtering requirements, the system includes:
 
 
 
-### 🏗️ Spatial Data Structure
+### 🏗️ Spatial Data Structure  
 Each geographical record is stored in a structured format to support spatial indexing:
 ```json
 {
@@ -162,5 +162,4 @@ Each geographical record is stored in a structured format to support spatial ind
   },
   "timestamp": "2026-01-14"
 }
-
-
+ 

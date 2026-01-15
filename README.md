@@ -1,5 +1,7 @@
 # 🛰️ Kronosfer: Satellite Mission Control
 
+### [sunum linki](kronosfer presentation.pptx)
+
 ### 🚀 Live Demo: [http://13.51.160.55](http://13.51.160.55)
 
 

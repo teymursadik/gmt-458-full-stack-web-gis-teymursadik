@@ -1,5 +1,3 @@
-[Proje Sunumunu Görüntüle (PDF)](Kronosfer Project Presentation.pdf)
-
 # 🛰️ Kronosfer: Satellite Mission Control
 
 ### 🚀 Live Demo: [http://13.51.160.55](http://13.51.160.55)

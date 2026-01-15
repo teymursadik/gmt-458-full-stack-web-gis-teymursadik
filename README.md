@@ -1,4 +1,4 @@
-[Proje Sunumunu Görüntüle (PDF)](Kronosfer Project Presentation)
+![Proje Sunumunu Görüntüle](Kronosfer Project Presentation.pdf)
 
 # 🛰️ Kronosfer: Satellite Mission Control
 
